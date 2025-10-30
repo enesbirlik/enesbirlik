@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Enes Birlik
 
 🎓 Mechatronics Engineer | Robotics Software Developer  
- Autonomous Systems • ROS2 • Embedded • Motion Planning  
+ Autonomous Systems • ROS2 • Motion Planning  
 
 
 ---
@@ -104,7 +104,7 @@ Bipedal motion & gait planning for a humanoid structure.
 | Programming | Python, C/C++, C#, MATLAB |
 | Robotics | ROS, ROS2, MoveIt2, Nav2, micro-ROS |
 | Simulation | Gazebo, Blender, RViz, SLAM Toolbox, RTAB-Map |
-| Embedded | STM32 (HAL/LL), Teensy, encoders, servos |
+| Embedded | Teensy, encoders, servos |
 | Tools | Git, Linux, Docker, Qt, WPF |
 | Mech & Control | SolidWorks, Kinematics, PID, LQR, Fuzzy |
 
