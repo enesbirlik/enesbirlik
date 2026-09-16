@@ -69,6 +69,8 @@ I build autonomous robots that work in the field, not just in simulation — loc
 
 <p align="center">
   <img src="assets/arm-system-diagram.jpg" height="230"/>
+    &nbsp;
+  <img src="assets/arm-field-photo.jpg" height="230"/>
 </p>
 
 - Full Gazebo simulation environment with a hardware interface layer via `ros2_control`
