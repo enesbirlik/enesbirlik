@@ -128,8 +128,9 @@ I build autonomous robots that work in the field, not just in simulation — loc
 
 ## 📊 GitHub Stats
 
-![Metrics](./metrics.svg)
-
+![](https://github-readme-stats.shion.dev/api?username=enesbirlik&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=enesbirlik&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=enesbirlik&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
 
 <p align="center">
