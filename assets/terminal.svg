@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="366" viewBox="0 0 860 366" role="img" aria-label="visitor@enesbirlik: neofetch. Enes Birlik, robotics software engineer. ROS 2, C++ and Python. Now building an SO-101 arm with embodied AI.">
+<defs><pattern id="g" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#508cdc" stroke-opacity=".06"/></pattern></defs>
+<style>
+text { font-family: 'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace; white-space: pre; }
+.out { opacity: 0; animation: show .25s ease-out both; }
+.blink { animation: blink 1.1s step-end infinite; }
+@keyframes type { from { transform: translateX(0); } to { transform: translateX(var(--d)); } }
+@keyframes show { from { opacity: 0; } to { opacity: 1; } }
+@keyframes gone { to { opacity: 0; } }
+@keyframes blink { 50% { opacity: 0; } }
+</style>
+<rect x="1" y="1" width="858" height="364" rx="8" fill="#070c16" stroke="#1f2f4a"/>
+<rect x="1" y="34" width="858" height="331" fill="url(#g)"/>
+<path d="M9 1h842a8 8 0 0 1 8 8v25H1V9a8 8 0 0 1 8-8z" fill="#111b2e"/>
+<line x1="1" y1="34" x2="859" y2="34" stroke="#1f2f4a"/>
+<circle cx="22" cy="17.5" r="5.5" fill="#ff6b6b"/><circle cx="40" cy="17.5" r="5.5" fill="#f5b13d"/><circle cx="58" cy="17.5" r="5.5" fill="#4ee44e"/>
+<text x="354.4" y="22" font-size="12" textLength="151.2" lengthAdjust="spacing" fill="#5b6b88">visitor@enesbirlik: ~</text>
+<text x="834" y="22" font-size="11" fill="#5b6b88" text-anchor="end">ROS 2 · Humble</text>
+<text x="26.0" y="66" font-size="14" textLength="252.0" lengthAdjust="spacing"><tspan fill="#4ee44e" font-weight="600">visitor@enesbirlik</tspan><tspan fill="#dbe5f5">:</tspan><tspan fill="#38c8f0">~</tspan><tspan fill="#dbe5f5">$ </tspan><tspan fill="#dbe5f5">neofetch</tspan></text>
+<rect class="cover" x="209.8" y="51" width="77.2" height="20" fill="#070c16" style="--d:67.2px;animation:type 0.64s steps(8) 0.5s both"/>
+<g style="animation:gone 0s 1.39s both"><rect x="210.8" y="54" width="8.4" height="15" fill="#4ee44e" style="--d:67.2px;animation:type 0.64s steps(8) 0.5s both"/></g>
+<g class="out" style="animation-delay:1.49s"><text x="26.0" y="100" font-size="13" textLength="265.2" lengthAdjust="spacing" fill="#4ee44e">███████╗███╗   ██╗███████╗███████╗</text></g>
+<g class="out" style="animation-delay:1.55s"><text x="26.0" y="114" font-size="13" textLength="265.2" lengthAdjust="spacing" fill="#4ee44e">██╔════╝████╗  ██║██╔════╝██╔════╝</text></g>
+<g class="out" style="animation-delay:1.61s"><text x="26.0" y="128" font-size="13" textLength="265.2" lengthAdjust="spacing" fill="#4ee44e">█████╗  ██╔██╗ ██║█████╗  ███████╗</text></g>
+<g class="out" style="animation-delay:1.67s"><text x="26.0" y="142" font-size="13" textLength="265.2" lengthAdjust="spacing" fill="#4ee44e">██╔══╝  ██║╚██╗██║██╔══╝  ╚════██║</text></g>
+<g class="out" style="animation-delay:1.73s"><text x="26.0" y="156" font-size="13" textLength="265.2" lengthAdjust="spacing" fill="#4ee44e">███████╗██║ ╚████║███████╗███████║</text></g>
+<g class="out" style="animation-delay:1.79s"><text x="26.0" y="170" font-size="13" textLength="265.2" lengthAdjust="spacing" fill="#4ee44e">╚══════╝╚═╝  ╚═══╝╚══════╝╚══════╝</text></g>
+<g class="out" style="animation-delay:1.85s"><text x="26.0" y="208" font-size="13" textLength="187.2" lengthAdjust="spacing"><tspan fill="#5b6b88">/ros/experience   </tspan><tspan fill="#f5b13d" font-weight="600">4+ yrs</tspan></text></g>
+<g class="out" style="animation-delay:1.91s"><text x="26.0" y="228" font-size="13" textLength="187.2" lengthAdjust="spacing"><tspan fill="#5b6b88">/teknofest/rank   </tspan><tspan fill="#f5b13d" font-weight="600">2× 1st</tspan></text></g>
+<g class="out" style="animation-delay:1.97s"><text x="26.0" y="248" font-size="13" textLength="195.0" lengthAdjust="spacing"><tspan fill="#5b6b88">/team/size        </tspan><tspan fill="#f5b13d" font-weight="600">35+ led</tspan></text></g>
+<g class="out" style="animation-delay:2.03s"><text x="26.0" y="268" font-size="13" textLength="163.8" lengthAdjust="spacing"><tspan fill="#5b6b88">/competition      </tspan><tspan fill="#f5b13d" font-weight="600">ERC</tspan></text></g>
+<g class="out" style="animation-delay:1.49s"><text x="352.0" y="100" font-size="14" textLength="92.4" lengthAdjust="spacing"><tspan fill="#4ee44e" font-weight="600">enes</tspan><tspan fill="#dbe5f5">@</tspan><tspan fill="#38c8f0" font-weight="600">birlik</tspan></text></g>
+<g class="out" style="animation-delay:1.55s"><text x="352.0" y="121" font-size="14" textLength="92.4" lengthAdjust="spacing" fill="#5b6b88">-----------</text></g>
+<g class="out" style="animation-delay:1.61s"><text x="352.0" y="142" font-size="14" textLength="193.2" lengthAdjust="spacing"><tspan fill="#4ee44e" font-weight="600">OS     </tspan><tspan fill="#5b6b88">: </tspan><tspan fill="#dbe5f5">Ubuntu + ROS 2</tspan></text></g>
+<g class="out" style="animation-delay:1.67s"><text x="352.0" y="163" font-size="14" textLength="243.6" lengthAdjust="spacing"><tspan fill="#4ee44e" font-weight="600">Host   </tspan><tspan fill="#5b6b88">: </tspan><tspan fill="#dbe5f5">Robotics SW Engineer</tspan></text></g>
+<g class="out" style="animation-delay:1.73s"><text x="352.0" y="184" font-size="14" textLength="218.4" lengthAdjust="spacing"><tspan fill="#4ee44e" font-weight="600">Kernel </tspan><tspan fill="#5b6b88">: </tspan><tspan fill="#dbe5f5">Mechatronics Eng.</tspan></text></g>
+<g class="out" style="animation-delay:1.79s"><text x="352.0" y="205" font-size="14" textLength="201.6" lengthAdjust="spacing"><tspan fill="#4ee44e" font-weight="600">Uptime </tspan><tspan fill="#5b6b88">: </tspan><tspan fill="#dbe5f5">5 yrs of robots</tspan></text></g>
+<g class="out" style="animation-delay:1.85s"><text x="352.0" y="226" font-size="14" textLength="176.4" lengthAdjust="spacing"><tspan fill="#4ee44e" font-weight="600">Shell  </tspan><tspan fill="#5b6b88">: </tspan><tspan fill="#dbe5f5">C++ / Python</tspan></text></g>
+<g class="out" style="animation-delay:1.91s"><text x="352.0" y="247" font-size="14" textLength="260.4" lengthAdjust="spacing"><tspan fill="#4ee44e" font-weight="600">Work   </tspan><tspan fill="#5b6b88">: </tspan><tspan fill="#dbe5f5">R&amp;D @ STM32 industrial</tspan></text></g>
+<g class="out" style="animation-delay:1.97s"><text x="352.0" y="268" font-size="14" textLength="243.6" lengthAdjust="spacing"><tspan fill="#4ee44e" font-weight="600">Now    </tspan><tspan fill="#5b6b88">: </tspan><tspan fill="#dbe5f5">SO-101 + embodied AI</tspan></text></g>
+<g class="out" style="animation-delay:2.09s"><rect x="352" y="293" width="22" height="12" rx="2" fill="#2b4066"/><rect x="378" y="293" width="22" height="12" rx="2" fill="#ff6b6b"/><rect x="404" y="293" width="22" height="12" rx="2" fill="#4ee44e"/><rect x="430" y="293" width="22" height="12" rx="2" fill="#f5b13d"/><rect x="456" y="293" width="22" height="12" rx="2" fill="#38c8f0"/><rect x="482" y="293" width="22" height="12" rx="2" fill="#8b9bb8"/><rect x="508" y="293" width="22" height="12" rx="2" fill="#dbe5f5"/></g>
+<g class="out" style="animation-delay:2.41s"><text x="26.0" y="338" font-size="14" textLength="495.6" lengthAdjust="spacing"><tspan fill="#4ee44e" font-weight="600">visitor@enesbirlik</tspan><tspan fill="#dbe5f5">:</tspan><tspan fill="#38c8f0">~</tspan><tspan fill="#dbe5f5">$ </tspan><tspan fill="#dbe5f5">xdg-open https://enesbirlik.github.io</tspan></text><rect class="cover" x="209.8" y="323" width="320.8" height="20" fill="#070c16" style="--d:310.8px;animation:type 2.04s steps(37) 2.71s both"/><g class="blink" style="animation-delay:4.75s"><rect x="212.8" y="326" width="8.4" height="15" fill="#4ee44e" style="--d:310.8px;animation:type 2.04s steps(37) 2.71s both"/></g></g>
+</svg>

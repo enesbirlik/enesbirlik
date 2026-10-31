@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="84" viewBox="0 0 640 84" role="img" aria-label="Open the portfolio: enesbirlik.github.io">
+<style>
+text { font-family: 'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace; white-space: pre; }
+.glow { animation: glow 2.4s ease-in-out infinite; }
+.blink { animation: blink 1.1s step-end infinite; }
+@keyframes glow { 0%,100% { stroke-opacity: .35; } 50% { stroke-opacity: 1; } }
+@keyframes blink { 50% { opacity: 0; } }
+</style>
+<rect x="1" y="1" width="638" height="82" rx="6" fill="#0a101c" stroke="#2b4066"/>
+<rect class="glow" x="1" y="1" width="638" height="82" rx="6" fill="none" stroke="#4ee44e" stroke-width="1.5"/>
+<rect x="1" y="14" width="3" height="56" fill="#4ee44e"/>
+<text x="24.0" y="31" font-size="13" textLength="234.0" lengthAdjust="spacing"><tspan fill="#4ee44e">$ </tspan><tspan fill="#5b6b88">ros2 service call /portfolio</tspan></text>
+<text x="24.0" y="62" font-size="24" textLength="316.8" lengthAdjust="spacing"><tspan fill="#38c8f0">→ </tspan><tspan fill="#4ee44e" font-weight="700">enesbirlik.github.io</tspan></text>
+<rect class="blink" x="344.8" y="43" width="12" height="22" fill="#4ee44e"/>
+<rect x="510" y="25.0" width="106" height="34" rx="4" fill="#111b2e" stroke="#38c8f0" stroke-opacity=".6"/>
+<text x="525.2" y="47.0" font-size="14" textLength="75.6" lengthAdjust="spacing" font-weight="600" fill="#38c8f0">OPEN SITE</text>
+</svg>
