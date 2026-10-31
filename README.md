@@ -6,7 +6,7 @@
 
 I build robots that work in the field, not just in simulation: localization, navigation, motion planning, and the embedded systems underneath them.
 
-I spent four years at **KOU ROVER**. I started as a team member and ended up leading **35+ engineers** through the **European Rover Challenge**, with back-to-back **TEKNOFEST 1st places** along the way. Today I'm an R&D software engineer working on STM32-based industrial systems.
+I spent four years at **KOU ROVER**. I started as a team member and ended up leading **35+ engineers** through the **European Rover Challenge**, with back-to-back **TEKNOFEST 1st places** along the way. Today I'm an R&D software engineer at **Kristal Endüstriyel**, building STM32-based industrial systems.
 
 ### `$ ros2 launch so101_follower bringup.launch.py`
 
